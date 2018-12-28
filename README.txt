@@ -1,6 +1,4 @@
-Розпакуйте архів,помістіть його в будь-яку папку та запустіть програму
-( ВАШ ШЛЯХ \Daybook\MyProject\MyProject\bin\Debug\Daybook.exe)
-(для зручності можна закріпити на панелі задач)
-(масштабування не зроблене=) )
-Після  запуску програми потрібно відразу вводити пароль(1111),пізніше його можна буде змінити 
-в налаштуваннях
+It`s my old Daybook project.I know - it`s amful.
+But it still works on my PC (Scaling is configured under my PC).
+(Now i`m working to create new one)
+To test the application, add the database1 to the project.
